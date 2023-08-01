@@ -1,0 +1,15 @@
+references: 
+https://www.youtube.com/watch?v=uCKX_FCg9Rk
+https://www.bilibili.com/video/BV1XA4y1D7dX/?spm_id_from=333.337.search-card.all.click&vd_source=acb6eda1404d56ab12735cc28fd539cf
+
+1. download git install https://github.com/opencv/opencv.git
+2. cd opencv
+3. mkdir build
+4. sudo apt-get install cmake
+5. cmake .. (settings follow)
+6. make -j8
+7. sudo make install
+8. follow bilibili too long
+
+RUN
+./test
